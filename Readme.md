@@ -1,4 +1,4 @@
-#Causal Inference and Research Design 
+Causal Inference and Research Design 
 
 María Alejandra Orjuela Pava
 
